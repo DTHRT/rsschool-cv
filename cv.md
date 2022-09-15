@@ -1,5 +1,7 @@
 # Dmitriy Yugay
 
+![Dmitriy Yugay](https://lh3.googleusercontent.com/drive-viewer/AJc5JmQFK2ir9pdGcV-ISEkqYjG96l23fKmGrjBnB_Sd_luz-lQFNUCrSuy9Ez27ql_GCHQ8Ses-g9M=w1920-h932 "Photo")
+
 ## Contact information:
 **Phone:** +81 10 2175 30 53  
 **Emai:** dmitriy2002yoo@gmail.com  
