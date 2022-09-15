@@ -3,7 +3,7 @@
 ## Contact information:
 **Phone:** +81 10 2175 30 53  
 **Emai:** dmitriy2002yoo@gmail.com  
-**Telegram:** @dthrt
+**Telegram:** @dthrt  
 **Discord:** Dmitriy Yugay (@dthrt) / MITYOO#9597  
 
 ## Briefly About Myself:
