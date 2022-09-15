@@ -20,3 +20,19 @@ I can't say that I know php or js 100%. I study programming languages ​​and 
 In addition to working as an administrator, I also worked on a freelance site - kwork.ru, where I solved various problems with WordPress, made up landing pages and fixed bugs on sites.
 
 Now I realized that I would like to gain experience in commercial development and specifically specialize in a certain area. I am determined and believe that it will help me become a Junior Frontend Developer.
+
+## Skills and Proficiency:
+* HTML5, CSS3
+* JS, PHP
+* WordPress
+* Laravel
+* jQuery, SASS
+* VS Code
+* Adobe Photoshop, Adobe XD
+
+## Code example:
+```
+function multiply(a, b){
+  return a * b;
+}
+```
