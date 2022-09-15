@@ -1,6 +1,6 @@
 # Dmitriy Yugay
 
-![Dmitriy Yugay](/img/photo.png "Photo")
+![Dmitriy Yugay](https://dthrt.github.io/rsschool-cv/img/photo.png "Photo")
 
 ## Contact information:
 **Phone:** +81 10 2175 30 53  
