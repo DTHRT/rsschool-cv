@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dthrt.github.io/rsschool-cv/
